@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdlib.h> 
 
-#define MAX_STACK_SIZE 3
+#define MAX_STACK_SIZE 5
 
 typedef int element;
 typedef struct Stacktype {
